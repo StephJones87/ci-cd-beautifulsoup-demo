@@ -53,4 +53,4 @@ To help beginners learn:
 - Writing and running Python tests
 - Setting up CI/CD with GitHub Actions
 
-Feel free to fork this and build on it!
+Feel free to fork this and build on it
